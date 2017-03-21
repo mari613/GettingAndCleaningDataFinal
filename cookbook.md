@@ -20,7 +20,7 @@
 * `subject` test subject's identifier (30 subjects in total)
 * `activity` type of action taking place during accelerometer data collection (activities include LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, and WALKING_UPSTAIRS)
 
-# Measurement variables in final_data.txt as described in Feature Selection section above
+# Means of measurement variables in final_data.txt taken from data as described in Feature Selection section above
 * `timeGravityAccelerometer-std()-Y` 
 * `timeGravityAccelerometer-std()-Z` 
 * `timeBodyAccelerometerJerk-mean()-X` 
