@@ -19,8 +19,8 @@ Assignment:
 
 Files contained in this repo:
 
-1) run_analysis.R
+1) run_analysis.R: script manipulating accelerometer data to generate tidy dataset.
 
-2) final_data.txt: Tidy dataset produced by run_analysis.R script using data collected from the accelerometers from the Samsung Galaxy S smartphone.
+2) final_data.txt: tidy dataset produced by run_analysis.R script using data collected from Samsung Galaxy S accelerometers.
 
 3) codebook.md: summary of variables in final_data.txt and relevant information
